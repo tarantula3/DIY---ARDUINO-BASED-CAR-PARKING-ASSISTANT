@@ -10,3 +10,6 @@ I am back again with another Arduino based home automation project. This time I 
 So, in this video, I am going to use an ultrasonic sensor to calculate the car's distance from the garage wall and display it using green, yellow and red LEDs. The color of LEDs indicates whether to keep moving, slow down, stop or go back.
 
 The total cost of the project is around $20 - $25.
+
+[![DIY - ARDUINO BASED CAR PARKING ASSISTANT](https://github.com/scorpHQ/Arduino/blob/master/VideoImage.PNG)](https://youtu.be/LQGhprwuHe0 "DIY - ARDUINO BASED CAR PARKING ASSISTANT")
+
