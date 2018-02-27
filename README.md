@@ -156,6 +156,7 @@ void turnThemAllOff(){
   digitalWrite(yellowLED, LOW);
   noTone(buzzer);
 }
+```
 
 Start the code by defining the constants and the global variables that will be used throughout the code.
 
